@@ -1,3 +1,7 @@
+# Nuxt 3 RFCs
+
+👉 https://github.com/nuxt/framework/discussions/categories/rfcs
+
 # Nuxt.js RFCs
 
 Many changes, including bug fixes and documentation improvements can be
