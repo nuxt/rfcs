@@ -1,6 +1,6 @@
 # Nuxt 3 RFCs
 
-👉 https://github.com/nuxt/framework/discussions/categories/rfcs
+👉 https://github.com/nuxt/nuxt/discussions/categories/rfcs
 
 # Nuxt.js RFCs
 
